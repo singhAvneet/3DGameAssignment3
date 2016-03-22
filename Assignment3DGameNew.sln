@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53C52E12-3014-B415-09EF-E6FA4E3036C0}") = "Assignment3DGameNew", "Assembly-CSharp.csproj", "{A9FE7281-4FB6-DA26-3FA4-299410D330A9}"
+EndProject
+Project("{53C52E12-3014-B415-09EF-E6FA4E3036C0}") = "Assignment3DGameNew", "Assembly-CSharp-Editor.csproj", "{81B41320-6A28-5CC0-23AA-B48A36E043DC}"
+EndProject
+Project("{53C52E12-3014-B415-09EF-E6FA4E3036C0}") = "Assignment3DGameNew", "Assembly-UnityScript.unityproj", "{276B0B85-4256-B0A3-6C5C-6E716956ED78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FE7281-4FB6-DA26-3FA4-299410D330A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FE7281-4FB6-DA26-3FA4-299410D330A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FE7281-4FB6-DA26-3FA4-299410D330A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FE7281-4FB6-DA26-3FA4-299410D330A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B41320-6A28-5CC0-23AA-B48A36E043DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B41320-6A28-5CC0-23AA-B48A36E043DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B41320-6A28-5CC0-23AA-B48A36E043DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B41320-6A28-5CC0-23AA-B48A36E043DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276B0B85-4256-B0A3-6C5C-6E716956ED78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276B0B85-4256-B0A3-6C5C-6E716956ED78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276B0B85-4256-B0A3-6C5C-6E716956ED78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276B0B85-4256-B0A3-6C5C-6E716956ED78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
