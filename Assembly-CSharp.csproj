@@ -130,6 +130,9 @@
      <Compile Include="Assets\_Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\_Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\_Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\scripts\DeathController.cs" />
+     <Compile Include="Assets\scripts\GameController.cs" />
+     <Compile Include="Assets\scripts\PlayerShooting.cs" />
      <None Include="Assets\_Standard Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\_Standard Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\_Standard Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
