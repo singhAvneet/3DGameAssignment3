@@ -46,6 +46,7 @@ public class GameController : MonoBehaviour {
 	public Text GameOverLabel;
 	public Text HighScoreLabel;
 	public Button RestartButton;
+
 	public GameObject player;
 
 	// Use this for initialization
@@ -71,6 +72,9 @@ public class GameController : MonoBehaviour {
 		this.HighScoreLabel.gameObject.SetActive (false);
 		this.RestartButton.gameObject.SetActive(false);
 
+		//StartButton = StartButton.GetComponent<Button> ();
+		//StartButton.enabled = true;
+
 	}
 
 	private void _endGame() {
@@ -88,4 +92,6 @@ public class GameController : MonoBehaviour {
 	public void RestartButtonClick() {
 		SceneManager.LoadScene (SceneManager.GetActiveScene().name);
 	}
+
+
 }
