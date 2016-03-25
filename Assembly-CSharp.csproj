@@ -130,6 +130,9 @@
      <Compile Include="Assets\_Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\_Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\_Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\scoring\script\cameraScript.cs" />
+     <Compile Include="Assets\scoring\script\playerScript.cs" />
+     <Compile Include="Assets\scoring\script\rotateCube.cs" />
      <Compile Include="Assets\scripts\DeathController.cs" />
      <Compile Include="Assets\scripts\GameController.cs" />
      <Compile Include="Assets\scripts\PlayerShooting.cs" />
